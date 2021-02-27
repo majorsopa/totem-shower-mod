@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.soup.pvp.mod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MinecraftClientMixin",
+    "ShowStuffHUDMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
