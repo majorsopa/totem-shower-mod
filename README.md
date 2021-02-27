@@ -1,7 +1,7 @@
-# based-pvp-mod
+# soup-pvp-mod
 
-based pvp mod
+soup pvp mod
 
-ʙᴀsᴇᴅ ᴘᴠᴘ ᴍᴏᴅ
+sᴏᴜᴘ ᴘᴠᴘ ᴍᴏᴅ
 
-ᵇᵃˢᵉᵈ ᵖᵛᵖ ᵐᵒᵈ
+ˢᵒᵘᵖ ᵖᵛᵖ ᵐᵒᵈ
