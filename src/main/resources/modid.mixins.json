@@ -4,7 +4,6 @@
   "package": "net.soup.pvp.mod.mixin",
   "compatibilityLevel": "JAVA_8",
   "client": [
-    "MinecraftClientMixin",
     "ShowStuffHUDMixin"
   ],
   "injectors": {
