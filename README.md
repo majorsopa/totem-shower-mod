@@ -1,7 +1,5 @@
-# soup-pvp-mod
+# totem-shower-mod
 
-soup pvp mod
+shows how many totems you have in your inventory
 
-sᴏᴜᴘ ᴘᴠᴘ ᴍᴏᴅ
-
-ˢᵒᵘᵖ ᵖᵛᵖ ᵐᵒᵈ
+customization coming soon
